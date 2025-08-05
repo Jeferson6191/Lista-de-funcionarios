@@ -4,4 +4,4 @@
  <p>Este projeto foi criado no intuito de organização e armazenamento de nomes de funcionários ativos e inativos para maior eficiencia no local de trabalho.</p>
 <h3 align="left">Estado:</h3>
 <li>Incompleto</li>
-<p>Incompleto pois desejo fazer uma futura atualização adicionando um back-end incluindo um banco de dados para que todos os nomes da lista seja salvos. </p>
+<p>Incompleto pois desejo fazer uma futura atualização adicionando um back-end incluindo um banco de dados para que todos os nomes da lista sejam salvos. </p>
