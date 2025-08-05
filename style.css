@@ -1,0 +1,20 @@
+#listinhaativos{
+    color: rgb(43, 255, 0);
+}
+#listinha{
+    color: rgb(255, 0, 0);
+}
+body{
+    font-family: arial;
+}
+ol{
+    text-transform: uppercase;
+    color: rgb(0, 123, 238);
+}
+li{
+    background-color: white;
+    color: black;
+    text-transform: none;
+}
+
+
