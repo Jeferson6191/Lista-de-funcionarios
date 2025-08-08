@@ -6,6 +6,8 @@
 <li>Incompleto</li>
 <p>Incompleto pois desejo fazer uma futura atualização adicionando um back-end incluindo um banco de dados para que todos os nomes da lista sejam salvos. </p>
 <h3>tecnologias:</h3>
-<p>HTML</p>
-<p>CSS</p>
-<p>Java Script</p>
+<ol>
+<li><p>HTML</p>
+<li><p>CSS</p>
+<li><p>Java Script</p>
+</ol>
